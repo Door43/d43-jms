@@ -1,0 +1,19 @@
+
+----
+~~NOCACHE~~
+**Door43**
+
+  * [[jms:home|Door43 (jms)]]
+  * [[en:license|License]]
+
+**Downloads**
+
+All content for this namespace is available in the [[https://github.com/Door43/d43-jms|d43-jms repository]].  To download it as a zip file, click [[https://github.com/Door43/d43-jms/archive/master.zip|d43-jms.zip]]
+
+**Recent Changes**
+{{changes>ns = jms}}
+
+**Language Information**
+
+[[http://www.ethnologue.com/language/jms|Ethnologue data]]
+
